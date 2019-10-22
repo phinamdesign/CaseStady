@@ -1,0 +1,35 @@
+ #wrapper{
+        width: 610px;
+        height: 610px;
+        margin: 80px auto;
+    }
+#myCanvas {
+    border: 1px solid red;
+    
+    
+}
+#form{
+    text-align: center;
+}
+#start {
+    margin-top: 10px;;
+    width: 90px;
+    height: 30px;
+    border: 1px solid red;
+    background-color:greenyellow;
+    color: red;
+    font-size: 20px;
+}
+#restart {
+    margin-top: 10px;;
+    width: 90px;
+    height: 30px;
+    margin-left: 15px;
+    border: 1px solid red;
+    background-color:yellow;
+    color: red;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+}
