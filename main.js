@@ -184,13 +184,6 @@ var myCanvas = document.getElementById('myCanvas');
             ctx.fillText("Score: "+score, 8, 20);
         }
 
-        // Hiển thị lượt chơi
-        // function drawLives() {
-        //     ctx.font = "16px Arial";
-        //     ctx.fillStyle = "red";
-        //     ctx.fillText("Lives: "+lives, myCanvas.width-65, 20);
-        // }
-
         // Thông báo khi win
         function win() {
             ctx.font = "80px Arial ";
